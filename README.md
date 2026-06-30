@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-06-29 23:58 UTC  —  457 matching roles found this run._
+_**Pulled:** 2026-06-30 14:10 UTC  —  454 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,7 +75,7 @@ _**Pulled:** 2026-06-29 23:58 UTC  —  457 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (377)
+## Simplify/pittcsc (374)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -453,9 +453,6 @@ _**Pulled:** 2026-06-29 23:58 UTC  —  457 matching roles found this run._
 | Impulse Space | Radio Frequency Engineering Intern | 2026-04-06 | — | [Apply](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) |
 | SoloPulse | Systems Engineering Intern | 2026-04-02 | — | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) |
 | Haize Labs | Software Engineer Intern | 2026-04-02 | — | [Apply](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) |
-| Hermeus | Human Machine Interface – Software Engineering Intern - Human Machine Interface | 2026-04-01 | — | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply) |
-| HEXAWARE | Intern Data Engineer | 2026-04-01 | — | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) |
-| Aquatic Capital Management | Software Engineer Intern | 2026-04-01 | — | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 
 ## sndsh404 2027 (12)
 
