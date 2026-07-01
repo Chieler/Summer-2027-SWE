@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-01 12:11 UTC  —  458 matching roles found this run._
+_**Pulled:** 2026-07-01 15:40 UTC  —  457 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,7 +75,7 @@ _**Pulled:** 2026-07-01 12:11 UTC  —  458 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (378)
+## Simplify/pittcsc (377)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -93,7 +93,6 @@ _**Pulled:** 2026-07-01 12:11 UTC  —  458 matching roles found this run._
 | The Home Depot | Data Scientist Intern | 2026-06-30 | — | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Data-Scientist_Req185609) |
 | The Home Depot | AI Machine Learning Developer Intern | 2026-06-30 | — | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req185607) |
 | RTX | Data Science and Advanced Analytics Internship | 2026-06-30 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Science-des-donnes-et-analytique-avance---Automne-2026_01836944-1) |
-| Sedgwick Claims Management Services | Data Analyst Intern | 2026-06-30 | — | [Apply](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-TX/Data-Analyst_R75316) |
 | AssetWorks | Software Development Intern - Engineering Team - React Native | 2026-06-30 | — | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/Software-Development-Intern_R67762) |
 | Palantir | Forward Deployed Software Engineer Intern - Commercial | 2026-06-30 | — | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply) |
 | Tesla | Data Engineer Intern - Applications Engineering | 2026-06-30 | — | [Apply](https://www.tesla.com/careers/search/job/272928) |
