@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-02 15:14 UTC  —  474 matching roles found this run._
+_**Pulled:** 2026-07-02 18:16 UTC  —  472 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,7 +75,7 @@ _**Pulled:** 2026-07-02 15:14 UTC  —  474 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (393)
+## Simplify/pittcsc (391)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -134,7 +134,6 @@ _**Pulled:** 2026-07-02 15:14 UTC  —  474 matching roles found this run._
 | Maxima | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application) |
 | BorgWarner | Software Engineer Intern | 2026-06-26 | — | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1) |
 | kos.ai | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application) |
-| Schweitzer Engineering Laboratories | Application Engineer Intern | 2026-06-26 | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Barrie/Application-Engineering-Intern_2026-21837) |
 | Espa AI | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application) |
 | Phamily | Business Intelligence & Data Analytics Intern - Undergraduate | 2026-06-25 | — | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) |
 | Hendrick Motorsports | Racing Performance Engineer Intern | 2026-06-25 | — | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564) |
@@ -196,7 +195,6 @@ _**Pulled:** 2026-07-02 15:14 UTC  —  474 matching roles found this run._
 | Palantir | Forward Deployed Software Engineer Intern - Defense Tech | 2026-06-16 | — | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply) |
 | SoloPulse | Software Engineer Intern/Co-op | 2026-06-16 | — | [Apply](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) |
 | Tesla | Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/273819) |
-| Optiver | FPGA Engineer Intern | 2026-06-16 | — | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8592684002) |
 | Tesla | Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/273927) |
 | Hitachi | Software Analyst Intern | 2026-06-16 | — | [Apply](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034) |
 | Tesla | Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/273820) |
