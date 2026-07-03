@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-02 23:39 UTC  —  470 matching roles found this run._
+_**Pulled:** 2026-07-03 15:10 UTC  —  471 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,10 +75,15 @@ _**Pulled:** 2026-07-02 23:39 UTC  —  470 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (389)
+## Simplify/pittcsc (390)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Tesla | Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering | 2026-07-03 | — | [Apply](https://www.tesla.com/careers/search/job/275805) |
+| ByteDance | Research Scientist Intern - AI Infrastructure | 2026-07-03 | — | [Apply](https://jobs.bytedance.com/en/position/7553916190126524680/detail) |
+| Travelers | Engineering Development Program Intern - Engineering Development Program | 2026-07-03 | — | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) |
+| Travelers | Data Science Leadership Development Program Intern - Dsldp | 2026-07-03 | — | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337) |
+| Arlington County VA | Utility Engineering Intern | 2026-07-03 | — | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624) |
 | Eight Sleep | Prototype & Test Engineer Intern - New Product Development | 2026-07-02 | — | [Apply](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) |
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | 2026-07-02 | — | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
 | NVIDIA | PhD Research Intern - System Software and I/O Architecture | 2026-07-02 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
@@ -149,7 +154,6 @@ _**Pulled:** 2026-07-02 23:39 UTC  —  470 matching roles found this run._
 | Point C | Data Science AI Intern | 2026-06-25 | — | [Apply](https://job-boards.greenhouse.io/pointc/jobs/5236086008) |
 | Cadence Design Systems | Product Engineering Intern - Simulation and Verification | 2026-06-25 | — | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475) |
 | Binance | Software Engineer Intern | 2026-06-25 | — | [Apply](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) |
-| The Walt Disney Company | Commercial Data Science Intern | 2026-06-25 | — | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154-1) |
 | The University of Edinburgh | Research Intern - Translation Software | 2026-06-25 | — | [Apply](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14409) |
 | The Tatitlek Corporation | Engineering Aide Intern | 2026-06-25 | — | [Apply](https://careers-tatitlek.icims.com/jobs/2620/job?mobile=true&needsRedirect=false) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls | 2026-06-24 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) |
@@ -178,7 +182,6 @@ _**Pulled:** 2026-07-02 23:39 UTC  —  470 matching roles found this run._
 | Core & Main | Data Engineering Intern | 2026-06-22 | — | [Apply](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) |
 | Intuitive Surgical | Computer Vision Engineer Intern | 2026-06-22 | — | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000133458290) |
 | Persistent Systems | Hardware Engineer Intern | 2026-06-22 | — | [Apply](https://careers-persistentsystems.icims.com/jobs/2270/job?mobile=true&needsRedirect=false) |
-| University Health Network | Junior Report Developer Intern - Analytics and Insights | 2026-06-19 | — | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279) |
 | ACI Worldwide  | Software Engineering Intern | 2026-06-19 | — | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500) |
 | Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | 2026-06-19 | — | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) |
 | iHerb | Software Development Intern | 2026-06-18 | — | [Apply](https://job-boards.greenhouse.io/iherb/jobs/7776154003) |
@@ -209,7 +212,6 @@ _**Pulled:** 2026-07-02 23:39 UTC  —  470 matching roles found this run._
 | Tesla | Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/273933) |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/274047) |
 | Cotiviti | Generative AI Research Engineer Intern | 2026-06-16 | — | [Apply](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false) |
-| Magna | Infrared Imaging & Algorithms Intern | 2026-06-16 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) |
 | TikTok | Data Scientist Intern | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532238337198622983) |
 | TikTok | Data Analyst Intern - TikTok Shop AMS Data Science | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532267134924867847) |
 | TikTok | Data Scientist Intern - TikTok Shop User Product DS | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532254890627696903) |
@@ -387,7 +389,6 @@ _**Pulled:** 2026-07-02 23:39 UTC  —  470 matching roles found this run._
 | PlusAI | Simulation Engineer Intern | 2026-05-19 | — | [Apply](https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464/apply) |
 | PlusAI | Machine Learning Engineer Intern | 2026-05-19 | — | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) |
 | Hermeus | Subsystem Test Engineer Intern | 2026-05-19 | — | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply) |
-| Nash | Full Stack Engineer Intern | 2026-05-18 | — | [Apply](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5/application) |
 | Rocket Lab USA | HITL Engineer Intern | 2026-05-16 | — | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) |
 | Neuralink | Software Engineer Intern - Infrastructure | 2026-05-16 | — | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469298003) |
 | Docugami | Software Engineer Intern | 2026-05-15 | — | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4014838003) |
