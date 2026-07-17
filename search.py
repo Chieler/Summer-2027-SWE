@@ -298,6 +298,48 @@ def source_markdown_table(label, url):
     return rows
 
 
+# ---------- Source: jobs-object repos (e.g. zshah101 automated list) ----------
+# Some trackers publish a clean JSON API shaped as {"jobs": [ {...}, ... ]}
+# where each job has company / title / url / posted_at (ISO 8601) / season /
+# category. We consume that feed directly.
+JOBS_OBJECT_SOURCES = [
+    ("zshah101 (2027 + Fall 2026)", [
+        "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/docs/api/jobs.json",
+        "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/data/jobs.json",
+    ]),
+]
+
+
+def _iso_to_date(s):
+    """'2026-07-16T00:00:00Z' -> '2026-07-16'. '' if missing/unparseable."""
+    s = s or ""
+    return s[:10] if re.match(r"\d{4}-\d{2}-\d{2}", s) else ""
+
+
+def source_jobs_object(label, candidates):
+    """Fetch the first working URL for a {'jobs': [...]} feed and parse it."""
+    for url in candidates:
+        data = fetch(url, is_json=True)
+        if not data:
+            continue
+        jobs = data.get("jobs", []) if isinstance(data, dict) else data
+        rows = []
+        for job in jobs:
+            title = job.get("title", "")
+            if not matches(title):
+                continue
+            u = job.get("url", "")
+            if not u:
+                continue
+            posted = _iso_to_date(job.get("posted_at") or job.get("date_posted"))
+            season = job.get("season") or detect_season("", "", title)
+            rows.append((job.get("company", ""), title, u, posted, season))
+        print(f"  [{label}] {len(rows)} matches")
+        return rows
+    print(f"  [{label}] no data (all URLs failed)")
+    return []
+
+
 # ---------- Source 2: Greenhouse public boards ----------
 GREENHOUSE_BOARDS = ["stripe", "databricks", "robinhood", "coinbase", "airbnb", "doordash", "plaid", "rippling"]
 
@@ -409,6 +451,34 @@ def _neg_date_key(posted):
         return (1, 0)
 
 
+def render_source_bucket(source_name, rows, applied=None):
+    """Render one '## Source (N)' section with a sorted, deduped job table.
+    Unapplied roles first, then newest-first (undated rows sink to the bottom).
+    Returns a list of markdown lines."""
+    applied = applied or []
+    out = [f"## {source_name} ({len(rows)})", "",
+           "| Company | Role | Posted | Applied | Link |",
+           "|---|---|---|---|---|"]
+    rows_sorted = sorted(
+        rows,
+        key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
+    )
+    seen = set()
+    for row in rows_sorted:
+        company, role, link, posted = row[0], row[1], row[2], row[3]
+        key = (company, role)
+        if key in seen:
+            continue
+        seen.add(key)
+        role = role.replace("|", "\\|")
+        company = company.replace("|", "\\|")
+        applied_mark = "✅" if is_applied(link, applied) else "—"
+        posted = posted or "—"
+        out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
+    out.append("")
+    return out
+
+
 def build_influential_section(rows, applied=None):
     """Render the 'Most Influential Tech Companies' highlight table: every
     pulled role at a company on INFLUENTIAL_COMPANIES, unapplied-first then
@@ -478,43 +548,18 @@ def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
             "may not be populated yet — it will retry on the next scheduled run."
         )
         lines.append("")
-    def render_bucket(source_name, rows):
-        out = [f"## {source_name} ({len(rows)})", "",
-               "| Company | Role | Posted | Applied | Link |",
-               "|---|---|---|---|---|"]
-        # sort: unapplied first, then newest-first within each group
-        # (undated rows sink to the bottom of their group)
-        rows_sorted = sorted(
-            rows,
-            key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
-        )
-        seen = set()
-        for row in rows_sorted:
-            company, role, link, posted = row[0], row[1], row[2], row[3]
-            key = (company, role)
-            if key in seen:
-                continue
-            seen.add(key)
-            role = role.replace("|", "\\|")
-            company = company.replace("|", "\\|")
-            applied_mark = "✅" if is_applied(link, applied) else "—"
-            posted = posted or "—"
-            out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
-        out.append("")
-        return out
-
     # Ordering: Simplify/pittcsc (the largest community list) first, then the
     # Most Influential Tech Companies highlight, then every other source in its
     # original collection order.
     TOP_SOURCE = "Simplify/pittcsc"
     if buckets.get(TOP_SOURCE):
-        lines += render_bucket(TOP_SOURCE, buckets[TOP_SOURCE])
+        lines += render_source_bucket(TOP_SOURCE, buckets[TOP_SOURCE], applied)
     if influential_rows is not None:
         lines.append(build_influential_section(influential_rows, applied=applied))
     for source_name, rows in buckets.items():
         if source_name == TOP_SOURCE or not rows:
             continue
-        lines += render_bucket(source_name, rows)
+        lines += render_source_bucket(source_name, rows, applied)
     lines.append("---")
     cutoff_note = (
         f"Postings older than {MAX_AGE_DAYS} days are auto-hidden as likely-filled. "
@@ -612,6 +657,11 @@ def main():
     print("Community lists (markdown):")
     for label, url in MARKDOWN_TABLE_SOURCES:
         for row in source_markdown_table(label, url):
+            labeled.append((label, row))
+
+    print("Community lists (jobs-object JSON):")
+    for label, candidates in JOBS_OBJECT_SOURCES:
+        for row in source_jobs_object(label, candidates):
             labeled.append((label, row))
 
     print("Company boards:")
