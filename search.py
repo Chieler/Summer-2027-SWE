@@ -100,10 +100,15 @@ def fetch(url, is_json=False, timeout=30):
         return None
 
 
+# "intern" as a whole word only — so full-time roles like "...Internal
+# Applications" or "Software Engineer, International" don't slip through.
+_INTERN_RE = re.compile(r"\bintern(ship)?s?\b")
+
+
 def matches(title):
     t = title.lower()
     has_kw = any(k in t for k in KEYWORDS)
-    is_intern = "intern" in t
+    is_intern = bool(_INTERN_RE.search(t))
     return has_kw and is_intern
 
 
