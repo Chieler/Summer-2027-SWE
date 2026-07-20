@@ -1,15 +1,17 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-20 14:38 UTC  —  324 matching roles found this run._
+_**Pulled:** 2026-07-20 15:11 UTC  —  326 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (256)
+## Simplify/pittcsc (258)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Hitachi Energy | Cloud & Data Specialist Intern | 2026-07-20 | — | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533) |
 | Capital One | Master's Data Science Internship | 2026-07-20 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) |
+| Capital One | Data Science Intern | 2026-07-20 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) |
+| GE Healthcare | Engineering Development Program Intern - Hardware | 2026-07-20 | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) |
 | Composio | Full-stack Intern | 2026-07-17 | — | [Apply](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true) |
 | Formlabs | Supply Chain Operations Software Intern | 2026-07-17 | — | [Apply](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) |
 | Deepgram | Software Engineer Intern | 2026-07-17 | — | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) |
