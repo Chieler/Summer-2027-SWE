@@ -1,9 +1,12 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-21 19:36 UTC  —  39 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-21 23:25 UTC  —  40 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Gitar, Inc. | Software Engineer Intern | 2026-07-21 | — | [Apply](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) |
+| Optiver | FPGA Engineer Intern | 2026-07-21 | — | [Apply](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) |
+| Axon | Software Engineering Intern | 2026-07-21 | — | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
 | Virtu Financial | Internship - Software Engineer | 2026-07-21 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Capital One | Master's Data Science Internship | 2026-07-20 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) |
 | Capital One | Data Science Intern | 2026-07-20 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) |
@@ -14,8 +17,6 @@ _**Pulled:** 2026-07-21 19:36 UTC  —  39 role(s) explicitly tagged Summer 2027
 | Google | Software Engineer Intern | 2026-07-20 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) |
 | Google | Software Developer Intern - MS | 2026-07-20 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/95423484271698630) |
 | Google | Software Developer Intern - BS | 2026-07-20 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/76982475250639558) |
-| Axon | 2027 US Software Engineering Internship | 2026-07-20 | — | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
-| Axon | 2027 US Firmware Engineering Internship | 2026-07-20 | — | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
 | AVEVA | Software Developer Intern- Drexel Co-op US | 2026-07-20 | — | [Apply](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) |
 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) | 2026-07-17 | — | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) |
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | 2026-07-16 | — | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
