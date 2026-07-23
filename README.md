@@ -1,14 +1,14 @@
 # 2027 SWE / Software-Adjacent Internships — Aggregate List
 
-_**Updated:** 2026-07-23 · **722** unique roles in the aggregate (all-time) · **324** shown after the 45-day freshness filter._
+_**Updated:** 2026-07-23 · **733** unique roles in the aggregate (all-time) · **328** shown after the 45-day freshness filter._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
 _One consolidated, de-duplicated list built from every source (community lists + company boards). Each run **adds onto** this aggregate rather than rebuilding it — the persistent store is [`aggregate.json`](aggregate.json). The **Location** column replaces the old Applied column._
 
-## 🏆 Most Influential Tech Companies (115)
+## 🏆 Most Influential Tech Companies (119)
 
-_Roles at companies on the curated influential-companies list (35 companies represented; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). Also included in the full list below._
+_Roles at companies on the curated influential-companies list (36 companies represented; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). Also included in the full list below._
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Tencent | Research Intern - Video World Models - Research & ML Systems | Palo Alto, CA | 2026-07-15 | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752) |
 | Tencent | Research Intern – Video World Models (Research & ML Systems) | US-California-Palo Alto | 2026-07-15 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) |
 | Jane Street | Data Engineering Intern | NYC | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) |
+| Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | In-Office | 2026-07-14 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | DRW | Software Developer Intern | London, UK | 2026-07-13 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942281) |
 | Jump Trading | Campus FPGA Engineer Intern | London, UK | 2026-07-13 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7974391) |
 | Jump Trading | Campus ML Research Engineer Intern | London, UK | 2026-07-13 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7977145) |
@@ -35,6 +36,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Jump Trading | Campus Systems Engineer Intern | Chicago, IL | 2026-07-10 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | Tesla | Software Engineer Intern - Energy Engineering | Palo Alto, CA | 2026-07-10 | [Apply](https://www.tesla.com/careers/search/job/276333) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Washington, D.C. | 2026-07-10 | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
+| Stripe | Software Engineer, Intern | Bengaluru | 2026-07-10 | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
 | Jump Trading | Software Engineer Intern | Chicago, IL | 2026-07-09 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
 | Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | 2026-07-09 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
 | NVIDIA | Performance Engineer Intern, Systems Software | St. Louis, MO | 2026-07-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) |
@@ -57,9 +59,11 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Citadel Securities | Software Engineer Intern | Miami, FL, NYC | 2026-07-06 | [Apply](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) |
 | Cloudflare | AI Builder Intern - Global Customer Engineering - Service Sales | London, UK | 2026-07-06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8044395) |
 | Jane Street | Software Engineering Intern | NYC | 2026-07-06 | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) |
+| Cloudflare | AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026) | In-Office | 2026-07-06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL, NYC | 2026-07-05 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | Tesla | Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering | Palo Alto, CA | 2026-07-03 | [Apply](https://www.tesla.com/careers/search/job/275805) |
 | ByteDance | Research Scientist Intern - AI Infrastructure | Seattle, WA | 2026-07-03 | [Apply](https://jobs.bytedance.com/en/position/7553916190126524680/detail) |
+| Cloudflare | Technical Support Engineer Intern (Fall 2026) | In-Office | 2026-07-03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) |
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | San Jose, CA | 2026-07-02 | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
 | Palantir | Forward Deployed Software Engineer Intern - Intel | Washington, DC | 2026-07-02 | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply) |
 | Tesla | Vehicle Software Intern - Torque Path & Chassis Controls | Palo Alto, CA | 2026-07-01 | [Apply](https://www.tesla.com/careers/search/job/274760) |
@@ -128,7 +132,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | D. E. Shaw | Systems Engineering Intern | New York, NY | — | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | Susquehanna | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | — | [Apply](https://careers.sig.com/jobs/10838) |
 
-## 📋 All Internships — Consolidated & Deduped (324)
+## 📋 All Internships — Consolidated & Deduped (328)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -226,6 +230,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Argmax | On-device AI Frameworks Engineer Intern | Palo Alto, CA, Union City, NJ | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/argmax/jobs/4067268009) |
 | Voloridge | Quantitative Developer Intern | Jupiter, FL | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Five Rings | Summer Intern 2027 - Software Developer | New York | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | In-Office | 2026-07-14 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | DRW | Software Developer Intern | London, UK | 2026-07-13 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942281) |
 | Jump Trading | Campus FPGA Engineer Intern | London, UK | 2026-07-13 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7974391) |
 | Jump Trading | Campus ML Research Engineer Intern | London, UK | 2026-07-13 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7977145) |
@@ -252,6 +257,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Exowatt | Software Engineering Intern  - Inventory Automation & IoT/Robotics | Austin, TX | 2026-07-10 | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Washington, D.C. | 2026-07-10 | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
 | Xsolla | AI-First Engineering Intern | Los Angeles, United States | 2026-07-10 | [Apply](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) |
+| Stripe | Software Engineer, Intern | Bengaluru | 2026-07-10 | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
 | Rakuten International | Software Engineer Intern | San Mateo, California | 2026-07-09 | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171) |
 | Jump Trading | Software Engineer Intern | Chicago, IL | 2026-07-09 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
 | Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | 2026-07-09 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
@@ -291,6 +297,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Ada | Software Engineer Intern | Remote in Canada | 2026-07-06 | [Apply](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | Jane Street | Software Engineering Intern | NYC | 2026-07-06 | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) |
 | Astranis | Radiation Effects Engineer Intern | SF | 2026-07-06 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4694853006) |
+| Cloudflare | AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026) | In-Office | 2026-07-06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL, NYC | 2026-07-05 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | CTGT | Software Engineer Intern | SF | 2026-07-04 | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) |
 | Droyd Robotics | Software Engineer Intern | SF | 2026-07-04 | [Apply](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) |
@@ -300,6 +307,7 @@ _Roles at companies on the curated influential-companies list (35 companies repr
 | Tesla | Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering | Palo Alto, CA | 2026-07-03 | [Apply](https://www.tesla.com/careers/search/job/275805) |
 | ByteDance | Research Scientist Intern - AI Infrastructure | Seattle, WA | 2026-07-03 | [Apply](https://jobs.bytedance.com/en/position/7553916190126524680/detail) |
 | Arlington County VA | Utility Engineering Intern | Arlington, VA | 2026-07-03 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624) |
+| Cloudflare | Technical Support Engineer Intern (Fall 2026) | In-Office | 2026-07-03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) |
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | San Jose, CA | 2026-07-02 | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
 | Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack | Sunnyvale, CA | 2026-07-02 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) |
 | Palantir | Forward Deployed Software Engineer Intern - Intel | Washington, DC | 2026-07-02 | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply) |
